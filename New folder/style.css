@@ -1,0 +1,157 @@
+H3 {
+
+color: rgb(26, 29, 26);
+
+font-family: algerian;
+
+position: absolute,
+
+right 130px;
+
+top : 320px ;
+}
+H3 {
+
+color: rgb(45, 48, 45);
+
+font-family: algerian;
+
+position: absolute;
+
+right: 130px,
+
+top 320px;
+
+}
+
+Aside P {
+
+text-align: center;
+
+background-color : rgb(40, 43, 40);
+
+color : rgb(248, 242, 242);
+
+font-size: 15px;
+}
+
+body {
+
+background-color: #cee9f0;
+
+background-image: url(background.gif);
+
+background-repeat: repeat-x
+
+}
+details {
+
+color: rgb(17, 17, 17);
+
+font-family: algerian;
+
+font-size: 15px;
+}
+
+H1 {
+
+font-family: algerian;
+
+color: rgb(32, 36, 32);
+
+font-size: 20px;
+
+position: absolute;
+
+top: 0px;
+
+right: 50px;
+
+}
+
+Article P {
+
+color: black;
+
+font-size: 15px;
+
+font-family: arial;
+
+width: 550px;
+
+}
+
+H5 {
+
+font-family: arial;
+
+color: white ;
+details UL {
+
+color: #D51165;
+
+font-size: 15px;
+
+}
+
+H4 {
+
+color: darkgreen;
+
+font-family: algerian; }
+
+video {
+
+position: absolute;
+
+right: 50px;
+
+top: 380px;
+
+}#mainDivContainer H4 {
+
+color: darkgreen;
+
+font-size: 24px;
+}
+
+auto-stylel1 {
+
+color: #FFFFFF;
+
+font-style: italic;
+}
+font-size: 24px;
+
+}
+
+auto-stylel {
+
+color: #FFFFFF;
+
+font-style: italic;
+
+}
+
+#callus {
+
+height: 80px;
+
+width: 50px;
+
+float:right;
+
+}
+
+NAV a:hover{
+
+color: pink;
+}
+
+NAV A{
+
+display: inline;
+
+text-decoration: none;
+
+color:white;}

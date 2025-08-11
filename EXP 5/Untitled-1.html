@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>Feedback Form</title></head>
+<body>
+<h2>Feedback Form</h2>
+<form th:action="@{/feedback}" method="post">
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <input type="text" name="username"><br>
+<br>
+Feedback: <input type="text" name="username"><br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
